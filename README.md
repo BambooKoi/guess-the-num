@@ -1,5 +1,5 @@
 # Guess the Number
-A simple number guessing game. I have made two ways of playing this game, Normal and Reverse. See [Gameplay](#Gameplay) for more details.
+A simple number guessing game. I have made two ways of playing this game, Normal and Reverse. See [Gameplay](#Gameplay) for details.
 
 ## Table of Contents
 - [Gameplay](#Gameplay)
@@ -14,14 +14,14 @@ A simple number guessing game. I have made two ways of playing this game, Normal
 There are two ways of playing this game, [Normal](#Normal) and [Reverse](#Reverse). Both are number guessing games, the difference is who's guessing.
 
 ### Normal
-The computer will randomly choose a secret number. The secret number will be in a random range of 10-100, this means that some games will be easier or harder than the previous. Example, your first game could be guessing between '1 and 20', your next game could be between '1 and 50' or '1 and 10', and etc. You will have 6 tries to guess the secret number each time.
+In this mode, the computer will randomly choose a secret number. The secret number will be in a random range of 10-100, this means that some games will be easier or harder than the previous. Example, your first game could be guessing between '1 and 20', your next game could be between '1 and 50' or '1 and 10', and etc. You will have 6 tries to guess the secret number each time.
 
 ![A Normal Guess the Number gameplay](demo_normal.gif)
 
 ### Reverse
 The roles are reversed this time. You get to choose the secret number from a range of 1-50. You do not give the computer your number at any point. See if the computer can guess it in 6 tries.
 
-![A Reverse Guess the Number gameplay](demo_normal.gif)
+![A Reverse Guess the Number gameplay](demo_reverse.gif)
 
 ## Built With
 - [Python 3.8](python.org) with the help of the built-in modules:
@@ -37,7 +37,7 @@ The roles are reversed this time. You get to choose the secret number from a ran
     - Follow the prompts on-screen
     - Enjoy!
 
-## License ![GitHub](https://img.shields.io/github/license/BambooKoi/Hangman)
+## License ![GitHub](https://img.shields.io/github/license/BambooKoi/guess-the-num)
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Donations (Optional)
